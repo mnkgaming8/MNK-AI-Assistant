@@ -41,7 +41,7 @@ def listen():
 
 # Call DeepSeek R1 API
 def ask_deepseek(prompt):
-    url = "https://api.deepseek.com/v1/chat/completions"
+    url = "https://api.deepseek.com/v1/chat/completions"  # <-- Put your key url here
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {DEEPSEEK_API_KEY}"
