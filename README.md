@@ -1,5 +1,5 @@
-✅ Main Parts Needed:
-Use DeepSeek R1 API for powerful language understanding.
+#✅ Main Parts Needed:
+*Use DeepSeek R1 API for powerful language understanding.*
 
 Use Speech Recognition for voice input.
 
