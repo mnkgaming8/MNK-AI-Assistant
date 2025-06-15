@@ -12,8 +12,8 @@ Use Google Translate API for multilingual support.
 Use a few packages for real-time data fetching.
 
 🔧 Before you run the code: Install these packages
-      In PyCharm terminal (or command prompt), type:
-      pip install openai deepseek openai whisper googletrans==4.0.0-rc1 pyttsx3 SpeechRecognition pyautogui requests
+  # In PyCharm terminal (or command prompt), type:
+      "pip install openai deepseek openai whisper googletrans==4.0.0-rc1 pyttsx3 SpeechRecognition pyautogui requests"
 
 📝 You need:
 Your DeepSeek R1 API key
